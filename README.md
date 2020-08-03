@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Louis, I have 2 years experience in web front-end engineering, keeping on coding and delving into website performance
+optimization . Expert in responsive, mobile-rst development
+
 <!--
 **a401120174/a401120174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
