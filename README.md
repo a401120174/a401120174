@@ -7,8 +7,8 @@ Nice to meet you!
 
 ### Side Projects
 
-- [react-mp3-player](https://github.com/a401120174/react-mp3-player "react-mp3-player") : mp3 player with React.js
-- [VScode-chatroom](https://github.com/a401120174/VScode-chatroom "VScode-chatroom") : online chatroom with React.js and Firebase
+- [react-mp3-player](https://github.com/a401120174/react-mp3-player "react-mp3-player") : mp3 player with React.js, Redux and styled-components
+- [VScode-chatroom](https://github.com/a401120174/VScode-chatroom "VScode-chatroom") : online chatroom with React.js, Redux, CSS Modules and Firebase
 
 ### Practicing
 
