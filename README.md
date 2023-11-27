@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi! I am Louis. I have 2 years experience in web front-end engineering, keeping on coding and delving into website performance
+Hi! I am Louis. I have 5 years experience in web front-end engineering, keeping on coding and delving into website performance
 optimization. I like to learn web technology
 and share what I have learned in [medium](https://medium.com/@a401120174). <br />
 Nice to meet you!
